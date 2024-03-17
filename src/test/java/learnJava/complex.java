@@ -12,11 +12,11 @@ public class complex {
 	    	}
 	    	for(int j=0;j<i;j++) {
 	    		System.out.print("* ");
-	    		yes();
-	    		problem.
+	    	
 	    	}
 	    	System.out.println(" ");
 	    }
 	}
 }
+//new line
 		
